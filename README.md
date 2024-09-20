@@ -14,7 +14,7 @@ I also break down P&L data by month, offering insights into short-term performan
 
 On top of that, I track net sales for various products and customers year-over-year, as well as across different markets. This comprehensive data analysis allows for more informed strategies that can significantly boost the company's performance.
 
-# Analytical Skills:
+⚡️Analytical Skills:
 -----------------------
 ➡ Created dynamic pivot tables and charts for in-depth data analysis.
 
