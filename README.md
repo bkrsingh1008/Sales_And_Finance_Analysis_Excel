@@ -17,6 +17,9 @@ On top of that, I track net sales for various products and customers year-over-y
 # Analytical Skills:
 -----------------------
 ➡ Created dynamic pivot tables and charts for in-depth data analysis.
+
 ➡ Utilized data validation and conditional formatting to maintain data integrity.
+
 ➡ Gained expertise in advanced functions, automation, and data transformation with Power Query and Power Pivot to design professional reports.
+
 ➡ Summarized, analyzed, and visualized data using Pivot Tables and Power Pivot.
