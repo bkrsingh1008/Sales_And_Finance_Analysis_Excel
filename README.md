@@ -2,7 +2,7 @@
 
 AtliQ Hardware has seen significant growth recently and has chosen to prepare P & L report for data analytics to compare their market competitors and base their decisions on data insights. This initiative is designed to answer stakeholder questions across all key areas ensuring well-informed and strategic decision-making.
 
-# Project Overview:
+👩‍💻 Project Overview:
 -----------------------
 The project focuses on organizing and analyzing a massive dataset with over 500,000 messy sales records. The aim is to uncover valuable insights that can help AtliQ hardware make smarter decisions and keep track of important performance metrics. Ultimately, the goal is to significantly boost the company’s overall performance, particularly in terms of net sales and gross margin.
 
